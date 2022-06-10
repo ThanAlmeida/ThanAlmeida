@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThanAlmeida
 - 👀 I’m interested in programming and design
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on (loading...)
 - 📫 How to reach me (loading...)
 
